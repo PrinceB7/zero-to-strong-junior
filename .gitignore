@@ -1,0 +1,9 @@
+*.mp4
+*.mkv
+*.mpeg
+
+*.jpg
+*.png
+*.jpeg
+
+linear_regression/datasets/mnist/
